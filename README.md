@@ -2,7 +2,7 @@
 
 ## Objective
 
-* Identify adult sepsis events using the [CDC Adult Sepsis Event Toolkit](https://www.cdc.gov/sepsis/pdfs/sepsis-surveillance-toolkit-mar-2018_508.pdf) criteria using the [Common Longitudinal Intensive Format (CLIF) 2.0](https://clif-consortium.github.io/website/) data structure. 
+* Identify adult sepsis events using the [CDC Adult Sepsis Event Toolkit](references/sepsis-surveillance-toolkit-mar-2018_508.pdf) criteria using the [Common Longitudinal Intensive Format (CLIF) 2.0](https://clif-consortium.github.io/website/) data structure. 
 * Determine the effect of including lactate in the definition on sepsis prevalence and mortality rates
 
 ## Required CLIF tables and fields
